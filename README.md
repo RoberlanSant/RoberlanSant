@@ -1,7 +1,5 @@
 ### Oi, Sou o Roberlan Almeida Santiago
 
-| | | |
-| :--: |
 ![dark][dark] |
 
 ## Repo Card
