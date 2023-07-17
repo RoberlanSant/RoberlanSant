@@ -1,6 +1,7 @@
 ### Oi, Sou o Roberlan Almeida Santiago
 
 ![dark][dark]
+|
 ![dark][dark_repo]
 
 | `default_repocard` ![default_repocard][default_repocard_repo] | `transparent` ![transparent][transparent_repo] | `shadow_red` ![shadow_red][shadow_red_repo] |
