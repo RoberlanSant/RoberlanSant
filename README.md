@@ -2,7 +2,7 @@
 
 | | | |
 | :--: |
-| `dark` ![dark][dark] |
+![dark][dark] |
 
 ## Repo Card
 @@ -45,7 +47,8 @@ Use `?theme=THEME_NAME` parameter like so :-
