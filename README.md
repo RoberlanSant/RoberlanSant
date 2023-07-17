@@ -3,24 +3,6 @@
 | | | |
 | :--: | :--: | :--: |
 | `dark` ![dark][dark] |
-| `default` ![default][default] | `transparent` ![transparent][transparent] | `shadow_red` ![shadow_red][shadow_red] |
-| `shadow_green` ![shadow_green][shadow_green] | `shadow_blue` ![shadow_blue][shadow_blue] | `dark` ![dark][dark] |
-| `radical` ![radical][radical] | `merko` ![merko][merko] | `gruvbox` ![gruvbox][gruvbox] |
-| `gruvbox_light` ![gruvbox_light][gruvbox_light] | `tokyonight` ![tokyonight][tokyonight] | `onedark` ![onedark][onedark] |
-| `cobalt` ![cobalt][cobalt] | `synthwave` ![synthwave][synthwave] | `highcontrast` ![highcontrast][highcontrast] |
-@@ -33,10 +34,11 @@ Use `?theme=THEME_NAME` parameter like so :-
-| `blueberry` ![blueberry][blueberry] | `slateorange` ![slateorange][slateorange] | `kacho_ga` ![kacho_ga][kacho_ga] |
-| `outrun` ![outrun][outrun] | `ocean_dark` ![ocean_dark][ocean_dark] | `city_lights` ![city_lights][city_lights] |
-| `github_dark` ![github_dark][github_dark] | `github_dark_dimmed` ![github_dark_dimmed][github_dark_dimmed] | `discord_old_blurple` ![discord_old_blurple][discord_old_blurple] |
-| `panda` ![panda][panda] | `noctis_minimus` ![noctis_minimus][noctis_minimus] | `cobalt2` ![cobalt2][cobalt2] |
-| `swift` ![swift][swift] | `aura` ![aura][aura] | `apprentice` ![apprentice][apprentice] |
-| `moltack` ![moltack][moltack] | `codeSTACKr` ![codeSTACKr][codeSTACKr] | `rose_pine` ![rose_pine][rose_pine] |
-|  `aura_dark` ![aura_dark][aura_dark] | | |
-| `aura_dark` ![aura_dark][aura_dark] | `panda` ![panda][panda] | `noctis_minimus` ![noctis_minimus][noctis_minimus] |
-| `cobalt2` ![cobalt2][cobalt2] | `swift` ![swift][swift] | `aura` ![aura][aura] |
-| `apprentice` ![apprentice][apprentice] | `moltack` ![moltack][moltack] | `codeSTACKr` ![codeSTACKr][codeSTACKr] |
-| `rose_pine` ![rose_pine][rose_pine] | `date_night` ![date_night][date_night] | `one_dark_pro` ![one_dark_pro][one_dark_pro] |
-| `rose` ![rose][rose] | `holi` ![holi][holi] | `neon` ![neon][neon] |
 | [Add your theme][add-theme] | | |
 
 ## Repo Card
