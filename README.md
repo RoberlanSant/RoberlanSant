@@ -1,13 +1,8 @@
 ### Oi, Sou o Roberlan Almeida Santiago
 
 ![dark][dark] |
+![dark][dark_repo]
 
-## Repo Card
-@@ -45,7 +47,8 @@ Use `?theme=THEME_NAME` parameter like so :-
-
-| | | |
-| :--: | :--: | :--: |
-| `default_repocard` ![default_repocard][default_repocard_repo] | `transparent` ![transparent][transparent_repo] | `dark` ![dark][dark_repo] |
 | `default_repocard` ![default_repocard][default_repocard_repo] | `transparent` ![transparent][transparent_repo] | `shadow_red` ![shadow_red][shadow_red_repo] |
 | `shadow_green` ![shadow_green][shadow_green_repo] | `shadow_blue` ![shadow_blue][shadow_blue_repo] | `dark` ![dark][dark_repo] |
 | `radical` ![radical][radical_repo] | `merko` ![merko][merko_repo] | `gruvbox` ![gruvbox][gruvbox_repo] |
