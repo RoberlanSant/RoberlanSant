@@ -1,9 +1,9 @@
 ### Oi, Sou o Roberlan Almeida Santiago
 
 | | | |
-| :--: | :--: | :--: |
+| :--: |
 | `dark` ![dark][dark] |
-| [Add your theme][add-theme] | | |
+| [Add your theme][add-theme]
 
 ## Repo Card
 @@ -45,7 +47,8 @@ Use `?theme=THEME_NAME` parameter like so :-
